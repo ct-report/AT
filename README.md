@@ -15,5 +15,8 @@ APKLAB analysis :
 
 JoeSandbox Reports:
 
+* Build 1.1.3.10-QA_223 #10
+- https://www.joesandbox.com/analysis/225290/0/html
+
 * Build 1.1.2.9-QA_221 #9
 - https://www.joesandbox.com/analysis/223898/0/html
