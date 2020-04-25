@@ -6,6 +6,7 @@ Contact Tracing - Austria
 Play Store |https://play.google.com/store/apps/details?id=at.roteskreuz.stopcorona
 -----------|----------------------------------------------------------------------
 Sources | not released yet (expected date : April 25)
+Website | https://www.roteskreuz.at/site/ueberblick-stopp-corona-app/
 
 - APKLAB analysis
 
