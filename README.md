@@ -7,7 +7,7 @@ Custom decentralized solution, which manages proximity-tracking on user's device
 
 Play Store |https://play.google.com/store/apps/details?id=at.roteskreuz.stopcorona
 -----------|----------------------------------------------------------------------
-Sources | not released yet (expected date : April 25)
+Sources | https://github.com/austrianredcross
 Website | https://www.roteskreuz.at/site/ueberblick-stopp-corona-app/
 App FAQ | https://participate.roteskreuz.at/faq_stopp_corona_app/
 
