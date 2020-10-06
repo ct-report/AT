@@ -10,13 +10,14 @@ Custom decentralized solution, which manages proximity-tracking on user's device
 Play Store | https://play.google.com/store/apps/details?id=at.roteskreuz.stopcorona
 -----------|-----------------------------------------------------------------------
 Sources | https://github.com/austrianredcross
-Website | https://www.roteskreuz.at/site/ueberblick-stopp-corona-app/
+Website | https://www.stopp-corona.at/
 App FAQ | https://participate.roteskreuz.at/faq_stopp_corona_app/
 
 - APKLAB analysis
 
 Build | Link
 ------|-----
+2.0.4.1060-QA_248 #1060 | https://apklab.io/apk.html?hash=627a48b03b86722dfac40866a50ca8fa4c1d9baac5774a13657dd61babc581f6
 2.0.3.1057-QA_245 #1057 | https://apklab.io/apk.html?hash=8e713452e2f6cefe1408ef8dbdb3ed863239e405cc468612c346047ccaf63d30
 1.2.2.956-QA_230 #956 | https://apklab.io/apk.html?hash=5230d7b622502571aca42763facfb39b3e21d7d61ba631a14fd6a445b8612614
 1.2.0.12-QA_229 #12 | https://apklab.io/apk.html?hash=ca138eb0abf885679b2ed42d089c44e5126492a0e394ae5dfa262a78dd69f2ff
@@ -28,6 +29,7 @@ Build | Link
 
 Build | Link
 ------|-----
+2.0.4.1060-QA_248 #1060 | https://www.joesandbox.com/analysis/293319/0/html
 2.0.3.1057-QA_245 #1057 | https://www.joesandbox.com/analysis/245703/0/html
 1.2.2.956-QA_230 #956 | https://www.joesandbox.com/analysis/238091/0/html
 1.2.0.12-QA_229 #12 | https://www.joesandbox.com/analysis/234820/0/html
