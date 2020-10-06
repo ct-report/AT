@@ -1,7 +1,9 @@
 # AT
 Contact Tracing - Austria
 
-![](apkicon_AT.png) **STOPP CORONA** developed by Accenture for Austrian Red Cross. 
+![](apkicon_AT.png) 
+
+**STOPP CORONA** developed by Accenture for Austrian Red Cross. 
 
 Custom decentralized solution, which manages proximity-tracking on user's device through Bluetooth/BLE + Google Nearby and / or P2P-Kit (Wi-Fi and/or ultrasounds).
 
