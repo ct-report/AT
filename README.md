@@ -15,7 +15,6 @@ Sources | https://github.com/austrianredcross
 Website | https://www.stopp-corona.at/
 App FAQ | https://participate.roteskreuz.at/faq_stopp_corona_app/
 
-\
 Version | Release Date
 --------|-------------
 2.0.7.1119-QA_255 | Dec 23, 2020
@@ -32,7 +31,7 @@ Version | Release Date
 1.1.1.8-QA_220 | Apr 12, 2020
 1.1.0.7-QA_219 | Apr 10, 2020
 1.0.0.6-QA_205 | Mar 25, 2020
-\
+
 
 - APKLAB analysis
 
