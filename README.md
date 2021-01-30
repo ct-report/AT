@@ -41,7 +41,7 @@ Version | Release Date
 
 Build | Link
 ------|-----
-2.0.8.1133-QA_257 | https://apklab.io/apk.html?hash=d29f5def6bfb6922b1ad55a582242c6507126d258ad5668e964d7f9f69e793fd
+2.0.8.1133-QA_257 #1133 | https://apklab.io/apk.html?hash=d29f5def6bfb6922b1ad55a582242c6507126d258ad5668e964d7f9f69e793fd
 ... | ...
 2.0.4.1060-QA_248 #1060 | https://apklab.io/apk.html?hash=627a48b03b86722dfac40866a50ca8fa4c1d9baac5774a13657dd61babc581f6
 2.0.3.1057-QA_245 #1057 | https://apklab.io/apk.html?hash=8e713452e2f6cefe1408ef8dbdb3ed863239e405cc468612c346047ccaf63d30
@@ -55,7 +55,7 @@ Build | Link
 
 Build | Link
 ------|-----
-2.0.8.1133-QA_257 | https://www.joesandbox.com/analysis/346303/0/html
+2.0.8.1133-QA_257 #1133 | https://www.joesandbox.com/analysis/346303/0/html
 ... | ...
 2.0.4.1060-QA_248 #1060 | https://www.joesandbox.com/analysis/293319/0/html
 2.0.3.1057-QA_245 #1057 | https://www.joesandbox.com/analysis/245703/0/html
